@@ -1,3 +1,22 @@
 {
-  "students": []
+  "students": [
+    {
+      "name": "Miriam",
+      "id": "403b01a3-6f0d-45a1-be3a-4abd74f022a1"
+    },
+    {
+      "name": "Thomas",
+      "id": "0e030578-5d6d-4c0b-9713-99c44b59f7f4"
+    },
+    {
+      "name": "Lene",
+      "id": "8aa408f0-91b7-43af-ab6f-2b235e3f99bb"
+    },
+    {
+      "name": "Marwin",
+      "id": "22caa718-9d48-41df-bc87-7594fe68beeb"
+    }
+  ],
+  "energy": [],
+  "journal": []
 }
