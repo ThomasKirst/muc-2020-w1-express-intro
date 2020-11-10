@@ -18,5 +18,40 @@
     }
   ],
   "energy": [],
-  "journal": []
+  "journal": [
+    {
+      "student": "403b01a3-6f0d-45a1-be3a-4abd74f022a1",
+      "motto": "super",
+      "notes": "i love backend",
+      "timestamp": "Tue, 10 Nov 2020 15:48:14 GMT",
+      "id": "3835b6b4-e1c7-46b2-8ca4-b0a28a0ed4c9"
+    },
+    {
+      "student": "403b01a3-6f0d-45a1-be3a-4abd74f022a1",
+      "motto": "super",
+      "notes": "i love backend",
+      "rating": 4,
+      "comprehension": 10,
+      "timestamp": "Tue, 10 Nov 2020 15:48:43 GMT",
+      "id": "b64f4275-06ea-4ad7-b40f-ff2f24b7c342"
+    },
+    {
+      "student": "403b01a3-6f0d-45a1-be3a-4abd74f022a1",
+      "motto": "super",
+      "notes": "i love backend",
+      "rating": 2,
+      "comprehension": 8,
+      "timestamp": "Tue, 10 Nov 2020 15:52:13 GMT",
+      "id": "831efcdf-8a79-4766-b013-786982df8555"
+    },
+    {
+      "student": "lala",
+      "motto": "super",
+      "notes": "i love backend",
+      "rating": 2,
+      "comprehension": 8,
+      "timestamp": "Tue, 10 Nov 2020 16:01:40 GMT",
+      "id": "b26f3eec-2d27-4735-9f2a-b30d03224e8d"
+    }
+  ]
 }

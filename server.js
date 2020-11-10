@@ -2,6 +2,7 @@ import express from 'express';
 import studentsRoute from './routes/students';
 import statusRoute from './routes/status';
 import energyRoute from './routes/energy';
+import journalRoute from './routes/journal';
 
 const server = express();
 
@@ -13,6 +14,7 @@ server.use('/', statusRoute);
 // Our GET / POST routes to work with students
 server.use('/api/students', studentsRoute);
 server.use('/api/energy', energyRoute);
+server.use('/api/journal',journalRoute);
 
 const port = 4000;
 
